@@ -1,8 +1,12 @@
 # Projeto-Integrador
 Status: Em desenvolvimento
+
 Tecnologias aplicadas: Java e MySQL
+
 Desenvolvedores: Eduardo Moura Fiuza
+
 Objetivo do software: Auxiliar no cadastro e vendas de livros de uma livraria hipotética.
+
 Funcionalidades do sistema: 
 Requisitos Funcionais
 [RF001] Registro de Informações
