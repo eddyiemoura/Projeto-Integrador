@@ -1,7 +1,7 @@
 # Projeto-Integrador
 Status: Em desenvolvimento
 
-Tecnologias aplicadas: Java e MySQL
+Tecnologias aplicadas: Java, HTML, CSS eMySQL
 
 Desenvolvedores: Eduardo Moura Fiuza
 
